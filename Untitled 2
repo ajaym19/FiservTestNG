@@ -1,0 +1,64 @@
+Test NG
+
+It is a testing framework
+
+we can design TC
+
+Features:
+1. Variaur Annotations
+2. HTML Report
+3. 
+
+
+
+Heirarchy
+
+Suite
+	Test 1
+		C1
+			M1
+			M2
+		C2
+			M3
+			M4
+	Test 2
+		C3
+		C4
+Class
+Methods
+
+
+Before and After
+
+
+depends on with lower priority
+
+
+
+
+1000 TC
+400 TC
+
+1 Login TC
+
+100 TC to be performed after login
+
+Covered
+Convert to TestNG
+priority
+depends on
+groups
+
+
+Next 
+Test and Suite annotations
+Usage of Groups from TestNG XML File
+Before Test and Suite
+
+
+1000 TC's
+100 Smoke TC's
+
+
+
+
